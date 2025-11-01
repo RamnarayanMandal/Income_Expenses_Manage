@@ -155,5 +155,5 @@ The app uses Tailwind CSS for styling. All components are styled with utility cl
 5. **Delete Transaction**: Click "Delete" button (confirmation required)
 6. **View Charts**: Charts automatically update based on current transactions
 
-## CURSOR
+
 
